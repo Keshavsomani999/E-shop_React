@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/E-shop_React/static/css/main.17b93549.css",
-    "main.js": "/E-shop_React/static/js/main.478e4ef1.js",
+    "main.js": "/E-shop_React/static/js/main.eead3cfd.js",
     "static/js/787.c2166685.chunk.js": "/E-shop_React/static/js/787.c2166685.chunk.js",
     "static/media/hero4.png": "/E-shop_React/static/media/hero4.d02d6d2baf046ba16e25.png",
     "static/media/b4.jpg": "/E-shop_React/static/media/b4.d4973636195481212099.jpg",
@@ -37,11 +37,11 @@
     "static/media/n1.jpg": "/E-shop_React/static/media/n1.d0fc999e5c31100e7a56.jpg",
     "index.html": "/E-shop_React/index.html",
     "main.17b93549.css.map": "/E-shop_React/static/css/main.17b93549.css.map",
-    "main.478e4ef1.js.map": "/E-shop_React/static/js/main.478e4ef1.js.map",
+    "main.eead3cfd.js.map": "/E-shop_React/static/js/main.eead3cfd.js.map",
     "787.c2166685.chunk.js.map": "/E-shop_React/static/js/787.c2166685.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.17b93549.css",
-    "static/js/main.478e4ef1.js"
+    "static/js/main.eead3cfd.js"
   ]
 }
