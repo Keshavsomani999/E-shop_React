@@ -24,6 +24,7 @@ function App() {
       <Navbar/>
       <Routes>
         <Route exact path='/' element={<Index/>} />
+        <Route exact path='/E-shop_React' element={<Index/>} />
         <Route exact path='/shop' element={<Shop/>} />
         <Route exact path='/sproduct' element={<Singleproduct/>} />
         
