@@ -1,8 +1,11 @@
 import React from 'react'
-import logo from './img/logo.png'
+import logo from './img/logo2.png'
 import app from './img/pay/app.jpg'
 import play from './img/pay/play.jpg'
 import pay from './img/pay/pay.png'
+import { Link } from "react-router-dom";
+
+
 
 export default function Footer() {
   return (
@@ -11,8 +14,8 @@ export default function Footer() {
     <div className="col">
         <img className="logo" src={logo} alt=""/>
         <h4>Contact</h4>
-        <p><strong> Address: </strong> 562 Wellington Road, Streer 32, San Francisco</p>
-        <p><strong> Phone: </strong>+01 2222 365/ (+91) 01 2345 6789</p>
+        <p><strong> Address: </strong> VIT Bhopal </p>
+        <p><strong> Phone: </strong>+91/0 75 6025 4500 / 501 / 502 </p>
         <p><strong> Hours: </strong> 10:00 - 18:00, Mon - Sat</p>
     
         <div className="follow">
@@ -30,21 +33,21 @@ export default function Footer() {
 
     <div className="col">
         <h4>About</h4>
-        <a href="!#">About us</a>
-        <a href="!#">Delivery Information</a>
-        <a href="!#">Privacy Policy</a>
-        <a href="!#">Terms & Conditions</a>
-        <a href="!#">Contact Us</a>
+        <Link to="/about">About us</Link>
+        <Link to="/cart">Delivery Information</Link>
+        <Link to="/shop">Privacy Policy</Link>
+        <Link to="/">Terms & Conditions</Link>
+        <Link to="/contact">Contact Us</Link>
 
     </div>
 
     <div className="col">
         <h4>My Account</h4>
-        <a href="!#">Sign In</a>
-        <a href="!#">View Cart</a>
-        <a href="!#">My Wishlist</a>
-        <a href="!#">Track My Order</a>
-        <a href="!#">Help</a>
+        <Link to="/cart">Sign In</Link>
+        <Link to="/cart">View Cart</Link>
+        <Link to="/cart">My Wishlist</Link>
+        <Link to="/cart">Track My Order</Link>
+        <Link to="/shop">Help</Link>
 
     </div>
 

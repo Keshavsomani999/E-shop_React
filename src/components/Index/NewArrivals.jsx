@@ -23,7 +23,7 @@ const items = [
 export default function NewArrivals() {
   return (
     <div>
-        <section id="product1" class="section-p1">
+        <section id="product1" className="section-p1">
             <h2>New Arrivals</h2>
             <p>Summer Collection New Morden Design</p>
             <div className="pro-container">

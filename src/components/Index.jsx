@@ -1,4 +1,3 @@
-import userEvent from '@testing-library/user-event';
 import React from 'react'
 import Banner from './Index/Banner';
 import Banner3 from './Index/Banner3';
