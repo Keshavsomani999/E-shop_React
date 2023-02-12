@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/E-shop_React/static/css/main.19034b99.css",
-    "main.js": "/E-shop_React/static/js/main.9113de31.js",
+    "main.css": "/E-shop_React/static/css/main.f3b66129.css",
+    "main.js": "/E-shop_React/static/js/main.4124b8d6.js",
     "static/js/787.c2166685.chunk.js": "/E-shop_React/static/js/787.c2166685.chunk.js",
     "static/media/1.mp4": "/E-shop_React/static/media/1.d3740eae60b1a5155f46.mp4",
     "static/media/hero4.png": "/E-shop_React/static/media/hero4.d02d6d2baf046ba16e25.png",
@@ -40,12 +40,12 @@
     "static/media/n3.jpg": "/E-shop_React/static/media/n3.184ff86db413842df535.jpg",
     "static/media/n1.jpg": "/E-shop_React/static/media/n1.d0fc999e5c31100e7a56.jpg",
     "index.html": "/E-shop_React/index.html",
-    "main.19034b99.css.map": "/E-shop_React/static/css/main.19034b99.css.map",
-    "main.9113de31.js.map": "/E-shop_React/static/js/main.9113de31.js.map",
+    "main.f3b66129.css.map": "/E-shop_React/static/css/main.f3b66129.css.map",
+    "main.4124b8d6.js.map": "/E-shop_React/static/js/main.4124b8d6.js.map",
     "787.c2166685.chunk.js.map": "/E-shop_React/static/js/787.c2166685.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.19034b99.css",
-    "static/js/main.9113de31.js"
+    "static/css/main.f3b66129.css",
+    "static/js/main.4124b8d6.js"
   ]
 }
