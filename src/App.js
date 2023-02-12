@@ -1,11 +1,9 @@
-import './App.css';
-import script from './script.js';
 import Navbar from "./components/Navbar";
 import React from 'react'
 import Index from './components/Index';
 import Footer from './components/Footer';
 import Singleproduct from './components/Singleproduct';
-import {Helmet} from "react-helmet";
+
 
 import {
   BrowserRouter as Router,
@@ -39,11 +37,7 @@ function App() {
       <Newsletter/>
       <Footer/>
       </Router>
-      <Helmet>
-   
-      <script src="./script.js" type="text/javascript" />
       
-      </Helmet>
     </div>
   );
 }
